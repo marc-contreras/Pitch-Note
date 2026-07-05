@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "864966522342",
+    "firebase_url": "https://netapp-6aee2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "netapp-6aee2",
+    "storage_bucket": "netapp-6aee2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864966522342:android:74e322e4daa511b18e9227",
+        "android_client_info": {
+          "package_name": "com.example.setapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864966522342-dslt6oliq0ug5b0kf1tnf7bc6tcc2t6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW_w8GdAK45iEHPjNPcxiawmx3ore-5L0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864966522342-dslt6oliq0ug5b0kf1tnf7bc6tcc2t6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

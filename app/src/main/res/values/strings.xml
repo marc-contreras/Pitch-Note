@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SETApp</string>
+    <string name="email">Email</string>
+    <string name="contrasenya">Contrasenya</string>
+    <string name="registrar">Registrar</string>
+    <string name="accedir">Accedir</string>
+    <string name="Proveidor">Proveidor</string>
+    <string name="tanca_sessio">Tanca Sessió</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Movil">Móvil</string>
+    <string name="Volver">Volver</string>
+    <string name="NombreUser">Nombre de usuario</string>
+    <string name="Referencias">Referencias</string>
+    <string name="PitchNote">Pitch Note</string>
+    <string name="MainMenu">Main menu</string>
+    <string name="Do">do</string>
+    <string name="Re">re</string>
+    <string name="Mi">mi</string>
+    <string name="Fa">fa</string>
+    <string name="Sol">sol</string>
+    <string name="La">la</string>
+    <string name="Si">si</string>
+    <string name="enunciat1">Prem el botó play y escull la nota correcte</string>
+    <string name="NormasPassword">La Contrasenya ha tenir 6 caràcters</string>
+    <string name="Listen">Listen</string>
+    <string name="Enunciat">Prem el botó Listen</string>
+    <string name="MenuPrincipal">Menú Principal</string>
+    <string name="DoS">Do#</string>
+    <string name="ReS">Re#</string>
+    <string name="FaS">Fa#</string>
+    <string name="SolS">Sol#</string>
+    <string name="LaS">La#</string>
+</resources>
