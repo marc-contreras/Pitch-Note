@@ -1,8 +1,8 @@
-# SETAPP -- Documentación Técnica
+# PITCH NOTE -- Documentación Técnica
 
 ## Proyecto Final de DAM
 
-**SETAPP** es una aplicación Android desarrollada en **Kotlin** cuyo
+**PITCH NOTE** es una aplicación Android desarrollada en **Kotlin** cuyo
 objetivo es entrenar el reconocimiento auditivo de notas musicales
 (*Pitch Note*), ayudando al usuario a mejorar el oído relativo y
 sentando las bases para el desarrollo del oído absoluto.
@@ -13,7 +13,7 @@ sentando las bases para el desarrollo del oído absoluto.
 
 ``` text
 app/
-├── src/main/java/com/example/setapp/
+├── src/main/java/com/example/PITCH NOTE/
 │   ├── AuthActivity.kt
 │   ├── HomeActivity.kt
 │   ├── PitchNoteActivity.kt
